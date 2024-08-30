@@ -14,7 +14,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 
 ## Configuração do Backend e FrontEnd
 
-### 1. Clonar o Repositório do Backend
+### 1. Clonar o Repositório do Projeto
 
 Primeiro, clone o repositório do projeto para sua máquina local:
 
