@@ -63,11 +63,11 @@ Também contém um sistema de rotas protegidas, onde só pode acessar a aplicaç
 
 
 ### Tela de login com thema Dark
-![Login Light_Theme](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/login_thema_dark.png)
+![Login Dark_Theme](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/login_thema_dark.png)
 
 
 ### Tela de Registro
-![Login Light_Theme](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/registro.png)
+![Registro](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/registro.png)
 
 
 ### Tela de Tarefas
@@ -75,11 +75,11 @@ Também contém um sistema de rotas protegidas, onde só pode acessar a aplicaç
 
 
 ### Tela de edição de Tarefas
-![Login Light_Theme](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/edit_task.png)
+![Editar Task](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/edit_task.png)
 
 
 ### Tela de excluir Tarefas
-![Login Light_Theme](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/delet_task.png)
+![Excluir Task](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/delet_task.png)
 
 
 
