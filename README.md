@@ -59,27 +59,27 @@ Também contém um sistema de rotas protegidas, onde só pode acessar a aplicaç
 # Imagens da Aplicação
 
 ### Tela de login com thema Light
-![Login Light_Theme](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/login_thema_light.png)
+![](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/login_thema_light.png)
 
 
 ### Tela de login com thema Dark
-![Login Dark_Theme](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/login_thema_dark.png)
+![](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/login_thema_dark.png)
 
 
 ### Tela de Registro
-![Registro](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/registro.png)
+![](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/registro.png)
 
 
 ### Tela de Tarefas
-![Login Light_Theme](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/tasks.png)
+![](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/tasks.png)
 
 
 ### Tela de edição de Tarefas
-![Editar Task](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/edit_task.png)
+![](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/edit_task.png)
 
 
 ### Tela de excluir Tarefas
-![Excluir Task](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/delet_task.png)
+![](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/delet_task.png)
 
 
 
