@@ -49,6 +49,17 @@ Crie um arquivo .env na raiz do projeto e coloque as váriaveis de ambiente
 baixe as dependências com o comando npm install, e execute o comando npm run start para rodar o projeto..
 
 
-##Considerações
+## Considerações
+O back end usei bibliotecas para criptografia de senha, e um middleware de autenticação do JWT como exigido na descrição do desafio.
+O Front end eu decidi usar a estilização pelo MaterialUI, mas também usei um pouco de module.css para algumas coisas mais especificas.
+Fiz um sistema de escolher entre tema dark ou light.
+A autenticação do token fica salvo por 7 dias depois expira, fazendo o usuário logado ser redirecionado para a página de login e ter que logar novamente.
+Também contém um sistema de rotas protegidas, onde só pode acessar a aplicação se o usuário estiver mesmo logado.
+
+# Imagens da Aplicação
+
+### Tela de login com thema Light
+![Login Light_Theme](https://github.com/trsmrs/projeto_jackexperts/blob/main/imgs/login_thema_dark.png)
+
 
 
