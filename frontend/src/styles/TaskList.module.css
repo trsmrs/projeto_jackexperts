@@ -1,0 +1,167 @@
+.container_task {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    max-width: 500px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin: 50px auto;
+}
+
+.container_task h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 1.5rem;
+}
+
+.container_task ul {
+    list-style: none;
+    padding: 0;
+}
+
+.container_task ul li {
+    background-color: #1fe99b;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    transition: transform 0.2s ease;
+}
+
+.container_task ul li:hover {
+    transform: translateY(-2px);
+}
+
+.container_task ul li h3 {
+    margin: 0;
+    color: #2c3e50;
+    font-size: 1.2rem;
+}
+
+.container_task ul li p {
+    margin: 5px 0 15px 0;
+    color: #7f8c8d;
+    font-size: 1rem;
+}
+
+.taskItem {
+  border: 1px solid rgb(107, 105, 105);
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 12px;
+}
+
+.completed {
+    background-color: transparent!important;
+    color: #6c757d;
+    border: 1px solid rgb(107, 105, 105);
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 12px;
+    opacity: 60%;
+  }
+
+  .completed h6, .completed p {
+    text-decoration: line-through;
+  }
+ 
+.container_task ul li button {
+    align-self: flex-end;
+    margin-left: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.container_task ul li button:hover {
+    background-color: #2980b9;
+}
+
+.container_task ul li button + button {
+    background-color: #e74c3c;
+}
+
+.container_task ul li button + button:hover {
+    background-color: #c0392b;
+}
+
+.container_task div {
+    margin-top: 20px;
+}
+
+.container_task input,
+.container_task textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.container_task textarea {
+    resize: none;
+    height: 100px;
+}
+
+.container_task button {
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.container_task button:hover {
+    background-color: #27ae60;
+}
+
+
+/* Estilos para dispositivos móveis */
+@media (max-width: 767px) {
+    .container_task {
+      width: 100%;
+      padding: 10px;
+      margin: 20px auto;
+    }
+    
+    .container_task h2 {
+      font-size: 1.2rem;
+    }
+    
+    .container_task ul li {
+      padding: 10px;
+    }
+    
+    .container_task ul li h3 {
+      font-size: 1rem;
+    }
+    
+    .container_task ul li p {
+      font-size: 0.9rem;
+    }
+    
+    .container_task input,
+    .container_task textarea {
+      width: 100%;
+    }
+    
+    .container_task button {
+      width: 100%;
+      padding: 12px;
+    }
+  }
+
+  
+  
